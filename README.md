@@ -1,4 +1,7 @@
 ## Project-3--group-2
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fpixelplex.io%2Fwp-content%2Fuploads%2F2023%2F08%2Fsmart-contract-use-cases-meta.jpg&tbnid=nO8E02uQxcM3bM&vet=12ahUKEwi_7eOFmI2GAxWSEWIAHWd6A_IQMygDegQIARBw..i&imgrefurl=https%3A%2F%2Fpixelplex.io%2Fblog%2Fsmart-contract-use-cases%2F&docid=wyYQlzaSdKSQhM&w=1200&h=630&q=images%20smart%20contract&ved=2ahUKEwi_7eOFmI2GAxWSEWIAHWd6A_IQMygDegQIARBw
+
 # Decentralized Mortgage System
 # Objective
 The project aims to create a decentralized mortgage system using Ethereum smart contracts.
