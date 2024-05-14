@@ -1,6 +1,7 @@
 ## Project-3--group-2
 
-"https://pixelplex.io/wp-content/uploads/2023/08/smart-contract-use-cases-meta.jpg"
+![Smart Contract](https://pixelplex.io/wp-content/uploads/2023/08/smart-contract-use-cases-meta.jpg)
+
 
 # Decentralized Mortgage System
 # Objective
