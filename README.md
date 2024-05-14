@@ -1,44 +1,44 @@
 ## Project-3--group-2
-Decentralized Mortgage System
-Objective
+# Decentralized Mortgage System
+# Objective
 The project aims to create a decentralized mortgage system using Ethereum smart contracts.
 
-Smart Contract
+# Smart Contract
 Developed a Solidity smart contract called "Mortgage" to manage mortgage loans.
 
 
-Functionality
+# Functionality
 Users can submit loan requests, approve or decline loans, make payments, and withdraw remaining balances.
 Tracks loan details such as loan amount, monthly payments, remaining balance, and homeowner's address.
 Minimum Income Requirement
 Implemented a requirement for a minimum monthly income for loan approval.
 
-Interest Calculation
+# Interest Calculation
 Added an interest calculator to calculate interest on the loan amount.
 
-Late Fee Option
+# Late Fee Option
 Included a late fee option for borrowers to pay late fees along with their payments.
 
-Streamlit Interface
+# Streamlit Interface
 Developed a Streamlit web interface for users to interact with the smart contract.
 
-Data Visualization
+# Data Visualization
 Displayed contract data such as homeowner address and loan amount using the Streamlit app.
 
-User Actions
+# User Actions
 Users can submit new loan requests, approve or decline loans, and make payments through the interface.
 
-Ethereum Integration
+# Ethereum Integration
 Connected the Streamlit app to a local Ethereum node to interact with the smart contract.
 
-Transaction Handling
+# Transaction Handling
 Handled Ethereum transactions for loan submissions, approvals, declines, and payments.
 
-Error Handling
+# Error Handling
 Implemented error handling to notify users of any issues during contract interactions.
 
-Testing
+# Testing
 Tested the functionality of the smart contract and the Streamlit interface to ensure proper operation.
 
-Future Improvements
+# Future Improvements
 Potential future enhancements include adding additional security features, optimizing gas usage, and improving user experience.
